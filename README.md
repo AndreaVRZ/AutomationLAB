@@ -2,6 +2,7 @@
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++ AUTOMATION OF AN ELEVATOR PLANT +++++++++++++++++++++++++++++ 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 For both logics it is given the code related to the Real Plant and the one related to 
 Simulation (CoDeSys Visualization). 
 The only differences between these files is that in the CoDeSys Visualization version 
