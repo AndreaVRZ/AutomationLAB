@@ -9,7 +9,6 @@ The only differences between these files is that in the CoDeSys Visualization ve
 the I/O signal are linked with the graphical GUI elements.                            
 As consequence in the Real Plant version the code lines associated to the sensors and 
 actuators simulation are commented.                                                   
->>>>>>> origin/master
 Obviously the PLC configuration regards only the Real Plant files.                    
                                                                                        
 
